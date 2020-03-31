@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              연구실
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+author:             연구실사람
+baseurl:            "/inucem"
+url:                "https://inucem.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
