@@ -1,14 +1,14 @@
-title:              연구실
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             연구실사람
+title:              인천대학교 건설경영몇관리연구실
+email:              taewkim@inu.ac.kr #김태완 교수님 이메일
+description:
+author:             INUCEM
 baseurl:            ""
 url:                "https://inucem.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:
+github_username:    INUCEM
+facebook_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
