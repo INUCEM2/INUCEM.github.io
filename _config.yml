@@ -2,7 +2,7 @@ title:              연구실
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             연구실사람
-baseurl:            "/inucem"
+baseurl:            ""
 url:                "https://inucem.github.io"
 
 # Social Profiles
